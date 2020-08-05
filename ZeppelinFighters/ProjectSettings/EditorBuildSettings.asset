@@ -12,15 +12,5 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene2D.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 53cc0cea1b2de9b48b402ce14dd9dd4a,
-      type: 2}
-    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3ac495d38a25cf24fa19c563abe34940,
-      type: 2}
-    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 8a722e4f5fd0e524b82fa52f54326194,
-      type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 64abcd9314851a5438eea74e4eb8c601,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4cbf13df0cb80e943a4956c519e60324,
-      type: 2}
-    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 36636dc56274c674db6a47a2710f8cca,
       type: 2}
